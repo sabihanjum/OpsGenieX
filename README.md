@@ -4,14 +4,14 @@
 OpsGenieX is an AI-powered automation platform designed to enhance operational efficiency for Managed Service Providers (MSPs) and IT teams. It streamlines core IT tasks such as patch management, alert triaging, and routine administrative workflows.
 
 ## Key Features
-- 🤖 AI-driven alert prioritization
-- 🔄 Automated patch deployment
-- 🛠️ Custom workflow builder
-- 📊 Real-time dashboards
-- 🔮 Predictive issue detection
-- 🔗 ITSM tool integrations
-- 📱 Mobile access (future scope)
-- ✅ Compliance monitoring
+- AI-driven alert prioritization
+- Automated patch deployment
+- Custom workflow builder
+- Real-time dashboards
+- Predictive issue detection
+- ITSM tool integrations
+- Mobile access (future scope)
+- Compliance monitoring
 
 ## Technology Stack
 
